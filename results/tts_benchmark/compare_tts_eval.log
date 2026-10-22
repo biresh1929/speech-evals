@@ -1,0 +1,4 @@
+piper (lessac-low, CPU) / built-in            {'n': 3, 'mean_rtf': 0.328, 'mean_first_chunk_s': None, 'mean_wer': 0.078, 'mean_spk_sim_to_author': 0.5621}
+pocket-tts (CPU) / builtin_alba               {'n': 3, 'mean_rtf': 0.321, 'mean_first_chunk_s': 0.127, 'mean_wer': 0.0, 'mean_spk_sim_to_author': 0.6272}
+chatterbox english (GPU) / clone_author       {'n': 3, 'mean_rtf': 1.069, 'mean_first_chunk_s': None, 'mean_wer': 0.046, 'mean_spk_sim_to_author': 0.9301}
+exit=0

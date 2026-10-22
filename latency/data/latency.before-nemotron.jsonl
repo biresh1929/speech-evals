@@ -1,0 +1,115 @@
+{"ts": "2026-05-18T21:20:52.427974+00:00", "node": "llm.quick", "duration_ms": 3265.49, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3026.69}}
+{"ts": "2026-05-18T21:35:11.987119+00:00", "node": "llm.quick", "duration_ms": 29030.58, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 28939.97}}
+{"ts": "2026-05-18T21:35:12.031091+00:00", "node": "voice.ttfa", "duration_ms": 4122.69, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T21:35:12.127641+00:00", "node": "voice.ttfa", "duration_ms": 4217.07, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T21:35:38.929179+00:00", "node": "llm.quick", "duration_ms": 3994.97, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3958.75}}
+{"ts": "2026-05-18T21:35:57.054686+00:00", "node": "llm.quick", "duration_ms": 616.6, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T21:44:26.500486+00:00", "node": "llm.quick", "duration_ms": 4634.12, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4524.9}}
+{"ts": "2026-05-18T21:44:43.554599+00:00", "node": "llm.quick", "duration_ms": 4419.13, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4334.4}}
+{"ts": "2026-05-18T21:45:16.536559+00:00", "node": "llm.quick", "duration_ms": 15860.92, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 15795.91}}
+{"ts": "2026-05-18T21:45:46.422473+00:00", "node": "llm.quick", "duration_ms": 3636.75, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3583.76}}
+{"ts": "2026-05-18T21:45:50.150226+00:00", "node": "llm.quick", "duration_ms": 2531.41, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 2384.5}}
+{"ts": "2026-05-18T21:45:59.689825+00:00", "node": "llm.quick", "duration_ms": 6065.11, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5890.67}}
+{"ts": "2026-05-18T21:46:19.611104+00:00", "node": "llm.quick", "duration_ms": 4303.59, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4221.12}}
+{"ts": "2026-05-18T21:46:52.801018+00:00", "node": "llm.quick", "duration_ms": 4894.44, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4720.1}}
+{"ts": "2026-05-18T21:47:31.686106+00:00", "node": "llm.quick", "duration_ms": 15721.16, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 15569.72}}
+{"ts": "2026-05-18T21:47:31.755418+00:00", "node": "voice.ttfa", "duration_ms": 6023.33, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T21:47:31.999827+00:00", "node": "voice.ttfa", "duration_ms": 6268.3, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T21:48:06.255224+00:00", "node": "llm.quick", "duration_ms": 4851.48, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4724.68}}
+{"ts": "2026-05-18T21:48:24.085076+00:00", "node": "llm.quick", "duration_ms": 1890.43, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 1744.97}}
+{"ts": "2026-05-18T21:48:40.688978+00:00", "node": "llm.quick", "duration_ms": 5734.56, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5527.13}}
+{"ts": "2026-05-18T21:49:13.635768+00:00", "node": "llm.quick", "duration_ms": 2171.23, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 2132.52}}
+{"ts": "2026-05-18T23:17:04.593825+00:00", "node": "llm.quick", "duration_ms": 3674.56, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3595.57}}
+{"ts": "2026-05-18T23:17:20.710226+00:00", "node": "llm.quick", "duration_ms": 4388.8, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4307.51}}
+{"ts": "2026-05-18T23:17:29.830475+00:00", "node": "llm.quick", "duration_ms": 5439.49, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5342.18}}
+{"ts": "2026-05-18T23:17:50.725650+00:00", "node": "llm.quick", "duration_ms": 10353.49, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 10272.96}}
+{"ts": "2026-05-18T23:17:58.651232+00:00", "node": "llm.quick", "duration_ms": 4866.81, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4837.71}}
+{"ts": "2026-05-18T23:17:58.688078+00:00", "node": "voice.ttfa", "duration_ms": 1057.0, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T23:17:58.781897+00:00", "node": "voice.ttfa", "duration_ms": 1151.03, "success": true, "error": null, "metadata": {"tts_engine": "piper", "llm_model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T23:18:47.142061+00:00", "node": "llm.quick", "duration_ms": 4312.67, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4230.07}}
+{"ts": "2026-05-18T23:18:58.612592+00:00", "node": "llm.quick", "duration_ms": 2463.86, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 2370.51}}
+{"ts": "2026-05-18T23:19:14.390563+00:00", "node": "llm.quick", "duration_ms": 5197.15, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5114.76}}
+{"ts": "2026-05-18T23:19:29.954270+00:00", "node": "llm.quick", "duration_ms": 1524.41, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 1442.57}}
+{"ts": "2026-05-18T23:19:53.674815+00:00", "node": "llm.quick", "duration_ms": 6624.13, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 6540.11}}
+{"ts": "2026-05-18T23:20:12.268417+00:00", "node": "llm.quick", "duration_ms": 4877.37, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4704.34}}
+{"ts": "2026-05-18T23:20:41.505975+00:00", "node": "llm.quick", "duration_ms": 6567.11, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 6393.01}}
+{"ts": "2026-05-18T23:21:35.631269+00:00", "node": "llm.quick", "duration_ms": 12593.48, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 12435.79}}
+{"ts": "2026-05-18T23:54:29.556254+00:00", "node": "llm.quick", "duration_ms": 1862.55, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 1769.7}}
+{"ts": "2026-05-18T23:54:40.096993+00:00", "node": "llm.quick", "duration_ms": 643.56, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T23:55:03.429797+00:00", "node": "llm.quick", "duration_ms": 639.2, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-18T23:55:24.632791+00:00", "node": "llm.quick", "duration_ms": 904.34, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b"}}
+{"ts": "2026-05-19T00:05:45.088104+00:00", "node": "llm.quick", "duration_ms": 3913.21, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3786.45}}
+{"ts": "2026-05-19T00:06:14.622258+00:00", "node": "llm.quick", "duration_ms": 17020.31, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 16923.11}}
+{"ts": "2026-05-19T00:06:44.795659+00:00", "node": "llm.quick", "duration_ms": 5200.26, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5073.22}}
+{"ts": "2026-05-19T00:07:20.493896+00:00", "node": "llm.quick", "duration_ms": 11074.8, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 10823.03}}
+{"ts": "2026-05-19T00:07:43.007565+00:00", "node": "llm.quick", "duration_ms": 6043.23, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5947.18}}
+{"ts": "2026-05-19T00:08:01.123589+00:00", "node": "llm.quick", "duration_ms": 1170.67, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 1041.91}}
+{"ts": "2026-05-19T00:08:20.436223+00:00", "node": "llm.quick", "duration_ms": 2610.14, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 2420.06}}
+{"ts": "2026-05-19T00:08:42.645905+00:00", "node": "llm.quick", "duration_ms": 9674.87, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 9439.27}}
+{"ts": "2026-05-19T00:09:11.175776+00:00", "node": "llm.quick", "duration_ms": 3838.23, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3756.86}}
+{"ts": "2026-05-19T00:33:26.928263+00:00", "node": "stt.transcribe", "duration_ms": 762.1, "success": true, "error": null, "metadata": {"text_len": 16, "model": "base.en"}}
+{"ts": "2026-05-19T00:33:30.365403+00:00", "node": "llm.quick", "duration_ms": 3429.27, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3316.57}}
+{"ts": "2026-05-19T00:33:30.440499+00:00", "node": "tts.first_chunk", "duration_ms": 67.29, "success": true, "error": null, "metadata": {"text_len": 20, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:30.441500+00:00", "node": "tts.synth_total", "duration_ms": 68.71, "success": true, "error": null, "metadata": {"text_len": 20, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:30.505026+00:00", "node": "tts.first_chunk", "duration_ms": 56.55, "success": true, "error": null, "metadata": {"text_len": 19, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:30.506033+00:00", "node": "tts.synth_total", "duration_ms": 57.64, "success": true, "error": null, "metadata": {"text_len": 19, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:38.303232+00:00", "node": "stt.transcribe", "duration_ms": 786.29, "success": true, "error": null, "metadata": {"text_len": 30, "model": "base.en"}}
+{"ts": "2026-05-19T00:33:39.209507+00:00", "node": "llm.quick", "duration_ms": 902.26, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 754.81}}
+{"ts": "2026-05-19T00:33:39.279112+00:00", "node": "tts.first_chunk", "duration_ms": 67.84, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:39.279621+00:00", "node": "tts.synth_total", "duration_ms": 68.91, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:39.394317+00:00", "node": "tts.first_chunk", "duration_ms": 72.66, "success": true, "error": null, "metadata": {"text_len": 40, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:39.394317+00:00", "node": "tts.synth_total", "duration_ms": 73.92, "success": true, "error": null, "metadata": {"text_len": 40, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:49.367656+00:00", "node": "stt.transcribe", "duration_ms": 839.05, "success": true, "error": null, "metadata": {"text_len": 51, "model": "base.en"}}
+{"ts": "2026-05-19T00:33:51.378941+00:00", "node": "llm.quick", "duration_ms": 2004.29, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 1827.63}}
+{"ts": "2026-05-19T00:33:51.486948+00:00", "node": "tts.first_chunk", "duration_ms": 101.72, "success": true, "error": null, "metadata": {"text_len": 41, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:51.486948+00:00", "node": "tts.synth_total", "duration_ms": 106.22, "success": true, "error": null, "metadata": {"text_len": 41, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:51.667413+00:00", "node": "tts.first_chunk", "duration_ms": 131.86, "success": true, "error": null, "metadata": {"text_len": 68, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:33:51.667750+00:00", "node": "tts.synth_total", "duration_ms": 133.71, "success": true, "error": null, "metadata": {"text_len": 68, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:34:06.544368+00:00", "node": "stt.transcribe", "duration_ms": 767.72, "success": true, "error": null, "metadata": {"text_len": 22, "model": "base.en"}}
+{"ts": "2026-05-19T00:34:10.959385+00:00", "node": "llm.quick", "duration_ms": 4407.44, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4309.69}}
+{"ts": "2026-05-19T00:34:11.020081+00:00", "node": "tts.first_chunk", "duration_ms": 58.12, "success": true, "error": null, "metadata": {"text_len": 21, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:34:11.021584+00:00", "node": "tts.synth_total", "duration_ms": 59.12, "success": true, "error": null, "metadata": {"text_len": 21, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:34:11.095272+00:00", "node": "tts.first_chunk", "duration_ms": 58.69, "success": true, "error": null, "metadata": {"text_len": 18, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:34:11.096385+00:00", "node": "tts.synth_total", "duration_ms": 59.59, "success": true, "error": null, "metadata": {"text_len": 18, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:17.320271+00:00", "node": "stt.transcribe", "duration_ms": 747.49, "success": true, "error": null, "metadata": {"text_len": 15, "model": "base.en"}}
+{"ts": "2026-05-19T00:39:21.742123+00:00", "node": "llm.quick", "duration_ms": 4416.97, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 4335.63}}
+{"ts": "2026-05-19T00:39:21.783479+00:00", "node": "tts.first_chunk", "duration_ms": 40.37, "success": true, "error": null, "metadata": {"text_len": 16, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:21.784483+00:00", "node": "tts.synth_total", "duration_ms": 41.15, "success": true, "error": null, "metadata": {"text_len": 16, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:21.872826+00:00", "node": "tts.first_chunk", "duration_ms": 37.59, "success": true, "error": null, "metadata": {"text_len": 23, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:21.872826+00:00", "node": "tts.synth_total", "duration_ms": 74.53, "success": true, "error": null, "metadata": {"text_len": 23, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:31.471756+00:00", "node": "stt.transcribe", "duration_ms": 822.08, "success": true, "error": null, "metadata": {"text_len": 30, "model": "base.en"}}
+{"ts": "2026-05-19T00:39:32.078946+00:00", "node": "llm.quick", "duration_ms": 599.36, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 480.05}}
+{"ts": "2026-05-19T00:39:32.161198+00:00", "node": "tts.first_chunk", "duration_ms": 80.04, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:32.161198+00:00", "node": "tts.synth_total", "duration_ms": 81.27, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:32.237771+00:00", "node": "tts.first_chunk", "duration_ms": 70.32, "success": true, "error": null, "metadata": {"text_len": 20, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:32.238823+00:00", "node": "tts.synth_total", "duration_ms": 71.24, "success": true, "error": null, "metadata": {"text_len": 20, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:41.361328+00:00", "node": "stt.transcribe", "duration_ms": 830.87, "success": true, "error": null, "metadata": {"text_len": 52, "model": "base.en"}}
+{"ts": "2026-05-19T00:39:46.713248+00:00", "node": "llm.quick", "duration_ms": 5341.44, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 5121.48}}
+{"ts": "2026-05-19T00:39:46.801040+00:00", "node": "tts.first_chunk", "duration_ms": 85.64, "success": true, "error": null, "metadata": {"text_len": 37, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:46.801553+00:00", "node": "tts.synth_total", "duration_ms": 86.67, "success": true, "error": null, "metadata": {"text_len": 37, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:47.010144+00:00", "node": "tts.first_chunk", "duration_ms": 63.73, "success": true, "error": null, "metadata": {"text_len": 46, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:47.011641+00:00", "node": "tts.synth_total", "duration_ms": 123.52, "success": true, "error": null, "metadata": {"text_len": 46, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:39:59.829746+00:00", "node": "stt.transcribe", "duration_ms": 928.69, "success": true, "error": null, "metadata": {"text_len": 73, "model": "base.en"}}
+{"ts": "2026-05-19T00:40:16.439438+00:00", "node": "llm.quick", "duration_ms": 16601.91, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 16320.98}}
+{"ts": "2026-05-19T00:40:16.558797+00:00", "node": "tts.first_chunk", "duration_ms": 110.14, "success": true, "error": null, "metadata": {"text_len": 60, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:16.558797+00:00", "node": "tts.synth_total", "duration_ms": 112.16, "success": true, "error": null, "metadata": {"text_len": 60, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:16.692457+00:00", "node": "tts.first_chunk", "duration_ms": 125.27, "success": true, "error": null, "metadata": {"text_len": 45, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:16.692457+00:00", "node": "tts.synth_total", "duration_ms": 127.04, "success": true, "error": null, "metadata": {"text_len": 45, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:26.059390+00:00", "node": "stt.transcribe", "duration_ms": 810.27, "success": true, "error": null, "metadata": {"text_len": 24, "model": "base.en"}}
+{"ts": "2026-05-19T00:40:29.478519+00:00", "node": "llm.quick", "duration_ms": 3413.51, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3264.39}}
+{"ts": "2026-05-19T00:40:29.529969+00:00", "node": "tts.first_chunk", "duration_ms": 48.54, "success": true, "error": null, "metadata": {"text_len": 13, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:29.529969+00:00", "node": "tts.synth_total", "duration_ms": 50.6, "success": true, "error": null, "metadata": {"text_len": 13, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:29.801952+00:00", "node": "tts.first_chunk", "duration_ms": 89.1, "success": true, "error": null, "metadata": {"text_len": 41, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:29.805107+00:00", "node": "tts.synth_total", "duration_ms": 159.07, "success": true, "error": null, "metadata": {"text_len": 41, "chunks": 2, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:38.335212+00:00", "node": "stt.transcribe", "duration_ms": 788.56, "success": true, "error": null, "metadata": {"text_len": 30, "model": "base.en"}}
+{"ts": "2026-05-19T00:40:42.275160+00:00", "node": "llm.quick", "duration_ms": 3933.15, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 3846.05}}
+{"ts": "2026-05-19T00:40:42.348211+00:00", "node": "tts.first_chunk", "duration_ms": 70.35, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:42.348715+00:00", "node": "tts.synth_total", "duration_ms": 71.77, "success": true, "error": null, "metadata": {"text_len": 31, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:42.377303+00:00", "node": "tts.first_chunk", "duration_ms": 25.72, "success": true, "error": null, "metadata": {"text_len": 0, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:42.377303+00:00", "node": "tts.synth_total", "duration_ms": 26.4, "success": true, "error": null, "metadata": {"text_len": 0, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:54.267359+00:00", "node": "stt.transcribe", "duration_ms": 854.74, "success": true, "error": null, "metadata": {"text_len": 52, "model": "base.en"}}
+{"ts": "2026-05-19T00:40:55.337444+00:00", "node": "llm.quick", "duration_ms": 1063.3, "success": true, "error": null, "metadata": {"model": "nvidia/nemotron-3-nano-4b", "ttft_ms": 859.2}}
+{"ts": "2026-05-19T00:40:55.499886+00:00", "node": "tts.first_chunk", "duration_ms": 158.25, "success": true, "error": null, "metadata": {"text_len": 82, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:55.499886+00:00", "node": "tts.synth_total", "duration_ms": 160.53, "success": true, "error": null, "metadata": {"text_len": 82, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:55.534343+00:00", "node": "tts.first_chunk", "duration_ms": 17.29, "success": true, "error": null, "metadata": {"text_len": 0, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}
+{"ts": "2026-05-19T00:40:55.535349+00:00", "node": "tts.synth_total", "duration_ms": 21.07, "success": true, "error": null, "metadata": {"text_len": 0, "chunks": 1, "voice": "en_US-lessac-low.onnx", "speed": 1.2}}

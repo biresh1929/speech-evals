@@ -1,0 +1,12 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+seed 11: seq 647 tokens, word tokens [' Postgre', 'SQL'] at [25, 26], frames [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]
+sanity: max |logit diff| manual vs model = 0.0514
+           q0     q1     q2     q3     q4     q5     q6     q7
+word    0.286->0 0.169->0 0.145->0 0.218->0 0.116->0 0.215->0 0.171->0 0.130->0
+  drop  +0.220  +0.059  +0.037  +0.055  +0.008  +0.000  +0.027  +0.037
+before  0.574->0 0.162->0 0.074->0 0.222->0 0.194->0 0.195->0 0.127->0 0.236->0
+  drop  +0.000  +0.003  +0.001  +0.000  +0.002  -0.000  +0.001  +0.002
+after   0.731->0 0.387->0 0.222->0 0.147->0 0.134->0 0.210->0 0.165->0 0.148->0
+  drop  +0.032  +0.014  +0.006  -0.003  +0.001  -0.008  +0.009  +0.008
+8.3s per forward pass
+exit=0

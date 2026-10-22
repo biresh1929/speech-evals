@@ -1,0 +1,6 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+seed 11: wrong-text heard 'package your sql' | respelled heard 'postgresql'
+seed 12: wrong-text heard 'poptigeroxio' | respelled heard 'postgresql'
+seed 13: wrong-text heard 'pox to growisql' | respelled heard 'postgresql'
+head norms: {'11|0': 0.6876589502381938, '27|3': 0.5590413842462125, '27|4': 0.5034551562504068, '27|6': 0.4543377905307156, '27|7': 0.40888839917238584}
+exit=0

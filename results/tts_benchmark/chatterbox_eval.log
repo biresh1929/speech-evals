@@ -1,0 +1,31 @@
+English reference: 2026-09-02 14-06-47.mp4 @ 1784.77s (11.0s)
+$SPEECH_EVALS_ROOT\venv\Lib\site-packages\diffusers\models\lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+<home>\AppData\Local\Programs\Python\Python312\Lib\contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+`sdpa` attention does not support `output_attentions=True`. Please set your attention to `eager` if you want any of these features.
+loaded PerthNet (Implicit) at step 250,000
+loaded PerthNet (Implicit) at step 250,000
+  english_en_1.wav: 4.4s in 5.07s (RTF 1.152), sim 0.9228, wm 1.0
+  english_en_2.wav: 4.04s in 4.14s (RTF 1.024), sim 0.9364, wm 1.0
+  english_en_3.wav: 4.12s in 4.25s (RTF 1.031), sim 0.9312, wm 1.0
+Hindi reference: @ 260.03s (8.4s)
+$SPEECH_EVALS_ROOT\venv\Lib\site-packages\diffusers\models\lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+WARNING:chatterbox.models.tokenizers.tokenizer:Could not load Cangjie mapping: An error happened while trying to locate the file on the Hub and we cannot find the requested files in the local cache. Please check your connection and try again or make sure your Internet connection is on.
+Downloading: "https://github.com/explosion/spacy-pkuseg/releases/download/v0.0.26/spacy_ontonotes.zip" to <home>/.pkuseg\spacy_ontonotes.zip
+loaded PerthNet (Implicit) at step 250,000
+<home>\AppData\Local\Programs\Python\Python312\Lib\contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+loaded PerthNet (Implicit) at step 250,000
+  multilingual_hi_1.wav: 6.52s in 7.15s (RTF 1.097), sim 0.8543, wm 1.0
+WARNING:chatterbox.models.t3.inference.alignment_stream_analyzer:forcing EOS token, long_tail=tensor(False), alignment_repetition=tensor(False), token_repetition=True
+  multilingual_hi_2.wav: 4.84s in 5.36s (RTF 1.108), sim 0.8699, wm 1.0
+ASR check (CPU, GPU released)
+  english_en_1.wav: WER 0.071  | U refactored the payment service and moved the retry logic into its own module.
+  english_en_2.wav: WER 0.067  | 3 tests were added for the rate limiter and one of them is currently failing.
+  english_en_3.wav: WER 0.0  | The authentication middleware now checks the token expiry before touching the database.
+  multilingual_hi_1.wav: WER 0.353  | आपने पेमेंट सर्वीस में बबलाव किया है और रीटराइ लोजिक को अलग मोडुल में डाल दिया हैं
+  multilingual_hi_2.wav: WER 0.421  | तदेट लिमेटर के लिए तीन नहीं टेस्ट जोड़े गए हैं और उनमेसे ये कभी फेल हो रहा हैं.
+exit=0

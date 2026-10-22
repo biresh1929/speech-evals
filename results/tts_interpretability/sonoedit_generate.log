@@ -1,0 +1,9 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+seed 11: 77 frames, round robin ok=True, 6.16s in 152.8s
+seed 12: 68 frames, round robin ok=True, 5.44s in 140.7s
+seed 13: 74 frames, round robin ok=True, 5.92s in 172.4s
+seed 11: heard 'package your SQL' 3.88-4.92s (frames 48-62), correct=False | The team migrated the database from MySQL to package your SQL last week.
+seed 12: heard 'Poptigeroxio' 3.52-4.66s (frames 44-59), correct=False | The team migrated the database from MySQL to Poptigeroxio last week.
+seed 13: heard 'grow iSQL' 4.40-4.96s (frames 55-62), correct=False | The team migrated the database from mySQL to pox to grow iSQL last week.
+mispronounced + aligned + clean round robin: seeds [11, 12, 13] of [11, 12, 13]
+exit=0

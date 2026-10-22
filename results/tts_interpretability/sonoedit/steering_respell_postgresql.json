@@ -1,0 +1,122 @@
+{
+ "Postgres sequel": [
+  {
+   "seed": 11,
+   "heard": null,
+   "asr_text": "The team migrated the database from MyXPL to Polkta SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 12,
+   "heard": "pocoja sql",
+   "asr_text": "The team migrated the database from MySQL to Pocoja SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 13,
+   "heard": "pukda sql",
+   "asr_text": "The team migrated the database from MySQL to Pukda SQL last week.",
+   "success": false
+  }
+ ],
+ "Postgres S Q L": [
+  {
+   "seed": 11,
+   "heard": "poketstar's sql",
+   "asr_text": "The team migrated the database from MySQL to Poketstar's SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 12,
+   "heard": "polkata's sql",
+   "asr_text": "The team migrated the database from MySQL to Polkata's SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 13,
+   "heard": "podcastsql",
+   "asr_text": "The team migrated the database from MySQL to PodcastSQL last week.",
+   "success": false
+  }
+ ],
+ "Postgre S Q L": [
+  {
+   "seed": 11,
+   "heard": "poptuja sql",
+   "asr_text": "The team migrated the database from MySQL to Poptuja SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 12,
+   "heard": "poptigior sql",
+   "asr_text": "The team migrated the database from MySQL to Poptigior SQL last week.",
+   "success": false
+  },
+  {
+   "seed": 13,
+   "heard": "poctezer sql",
+   "asr_text": "The team migrated the database from MySQL to Poctezer SQL last week.",
+   "success": false
+  }
+ ],
+ "Post-gres sequel": [
+  {
+   "seed": 11,
+   "heard": "postgresql",
+   "asr_text": "The team migrated the database from MySQL to PostgreSQL last week.",
+   "success": true
+  },
+  {
+   "seed": 12,
+   "heard": "postgresql",
+   "asr_text": "The team migrated the database from MySQL to PostgreSQL last week.",
+   "success": true
+  },
+  {
+   "seed": 13,
+   "heard": "postgresql",
+   "asr_text": "The team migrated the database from MySQL to PostgreSQL last week.",
+   "success": true
+  }
+ ],
+ "Poss-gres sequel": [
+  {
+   "seed": 11,
+   "heard": "postgresql",
+   "asr_text": "The team migrated the database from MySQL to PostgreSQL last week.",
+   "success": true
+  },
+  {
+   "seed": 12,
+   "heard": "postgresql",
+   "asr_text": "The team migrated the database from MySQL to PostgreSQL last week.",
+   "success": true
+  },
+  {
+   "seed": 13,
+   "heard": "postgres sql",
+   "asr_text": "The team migrated the database from MySQL to Postgres SQL last week.",
+   "success": true
+  }
+ ],
+ "Postgres SQL database": [
+  {
+   "seed": 11,
+   "heard": "pocchas sql database",
+   "asr_text": "The team migrated the database from MySQL to Pocchas SQL Database last week.",
+   "success": false
+  },
+  {
+   "seed": 12,
+   "heard": "podcast sql database",
+   "asr_text": "The team migrated the database from MySQL to podcast SQL database last week.",
+   "success": false
+  },
+  {
+   "seed": 13,
+   "heard": "poptus sql database",
+   "asr_text": "The team migrated the database from MySQL to Poptus SQL Database last week.",
+   "success": false
+  }
+ ]
+}

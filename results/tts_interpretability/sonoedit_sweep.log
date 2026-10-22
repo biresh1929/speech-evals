@@ -1,0 +1,26 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+6/144 conditions, ~52 min left
+12/144 conditions, ~49 min left
+18/144 conditions, ~47 min left
+24/144 conditions, ~44 min left
+30/144 conditions, ~41 min left
+36/144 conditions, ~40 min left
+42/144 conditions, ~38 min left
+48/144 conditions, ~36 min left
+54/144 conditions, ~34 min left
+60/144 conditions, ~31 min left
+66/144 conditions, ~29 min left
+72/144 conditions, ~26 min left
+78/144 conditions, ~24 min left
+84/144 conditions, ~22 min left
+90/144 conditions, ~19 min left
+96/144 conditions, ~17 min left
+102/144 conditions, ~15 min left
+108/144 conditions, ~13 min left
+114/144 conditions, ~11 min left
+120/144 conditions, ~8 min left
+126/144 conditions, ~6 min left
+132/144 conditions, ~4 min left
+138/144 conditions, ~2 min left
+144/144 conditions, ~0 min left
+exit=0

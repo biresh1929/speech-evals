@@ -1,0 +1,15 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+PostgreSQL: generated 9.4s in 253s
+kubectl: generated 7.4s in 192s
+async: generated 8.6s in 225s
+PostgreSQL: WER=0.353  verbatim_recognized=False
+   hyp: The team migrated the database from my SQL to PaktiJoy SQL last week and PaktiJoy SQL has been stable since.
+kubectl: WER=0.118  verbatim_recognized=True
+   hyp: You can check the pod status by running kubectl getpods and kubectl logs shows the output.
+async: WER=0.056  verbatim_recognized=True
+   hyp: The function was refactored to be async, so every insect call now runs without blocking the main thread.
+=== which words are confirmed mispronounced (word not recognized verbatim by ASR) ===
+  PostgreSQL: MISPRONOUNCED (candidate for tracing)
+  kubectl: recognized correctly -- NOT a tracing candidate without a human listen contradicting ASR
+  async: recognized correctly -- NOT a tracing candidate without a human listen contradicting ASR
+exit=0

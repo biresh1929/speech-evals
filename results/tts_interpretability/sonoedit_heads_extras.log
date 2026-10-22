@@ -1,0 +1,65 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+seed 11 wr_L27_top1: effect 0.09 (before -0.000) heads {'27': [3]}
+seed 11 wr_L27_top2: effect 0.18 (before +0.000) heads {'27': [3, 4]}
+seed 11 wr_L27_top3: effect 0.35 (before +0.000) heads {'27': [3, 4, 6]}
+seed 11 wr_L27_top4: effect 0.55 (before +0.000) heads {'27': [3, 4, 6, 7]}
+seed 11 wr_L27_top5: effect 0.58 (before +0.000) heads {'27': [3, 4, 5, 6, 7]}
+seed 11 wr_L27_top6: effect 0.59 (before -0.000) heads {'27': [1, 3, 4, 5, 6, 7]}
+seed 11 wr_L27_top8: effect 0.70 (before +0.000) heads {'27': [1, 3, 4, 5, 6, 7, 8, 10]}
+seed 11 wr_L27_top12: effect 0.73 (before -0.001) heads {'27': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]}
+seed 11 wr_L11_top1: effect 0.24 (before +0.000) heads {'11': [0]}
+seed 11 wr_L11_top2: effect 0.14 (before +0.000) heads {'11': [0, 2]}
+seed 11 wr_L11_top3: effect 0.30 (before -0.001) heads {'11': [0, 2, 6]}
+seed 11 wr_L11_top5: effect 0.31 (before -0.000) heads {'11': [0, 1, 2, 6, 11]}
+seed 11 wr_both_top1: effect 0.49 (before +0.001) heads {'11': [0], '27': [3]}
+seed 11 wr_both_top2: effect 0.62 (before +0.000) heads {'11': [0, 2], '27': [3, 4]}
+seed 11 wr_both_top3: effect 0.75 (before -0.001) heads {'11': [0, 2, 6], '27': [3, 4, 6]}
+seed 11 wr_both_top4: effect 0.84 (before -0.002) heads {'11': [0, 1, 2, 6], '27': [3, 4, 6, 7]}
+seed 11 wr_both_top6: effect 0.86 (before -0.002) heads {'11': [0, 1, 2, 6, 7, 11], '27': [1, 3, 4, 5, 6, 7]}
+seed 11 group_L27_kv1: effect 0.26 (before +0.000) heads {'27': [4, 5, 6, 7]}
+seed 11 group_L27_kv0: effect 0.12 (before +0.001) heads {'27': [0, 1, 2, 3]}
+seed 11 group_L11_kv0: effect 0.19 (before -0.001) heads {'11': [0, 1, 2, 3]}
+seed 11 control_kv3_both: effect -0.00 (before +0.000) heads {'11': [12, 13, 14, 15], '27': [12, 13, 14, 15]}
+seed 12 wr_L27_top1: effect -0.01 (before +0.000) heads {'27': [3]}
+seed 12 wr_L27_top2: effect 0.16 (before +0.002) heads {'27': [3, 4]}
+seed 12 wr_L27_top3: effect 0.24 (before +0.002) heads {'27': [3, 4, 6]}
+seed 12 wr_L27_top4: effect 0.41 (before +0.002) heads {'27': [3, 4, 6, 7]}
+seed 12 wr_L27_top5: effect 0.45 (before +0.002) heads {'27': [3, 4, 5, 6, 7]}
+seed 12 wr_L27_top6: effect 0.58 (before +0.002) heads {'27': [1, 3, 4, 5, 6, 7]}
+seed 12 wr_L27_top8: effect 0.66 (before +0.003) heads {'27': [1, 3, 4, 5, 6, 7, 8, 10]}
+seed 12 wr_L27_top12: effect 0.68 (before +0.004) heads {'27': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]}
+seed 12 wr_L11_top1: effect 0.44 (before -0.003) heads {'11': [0]}
+seed 12 wr_L11_top2: effect 0.35 (before -0.001) heads {'11': [0, 2]}
+seed 12 wr_L11_top3: effect 0.38 (before -0.002) heads {'11': [0, 2, 6]}
+seed 12 wr_L11_top5: effect 0.45 (before -0.002) heads {'11': [0, 1, 2, 6, 11]}
+seed 12 wr_both_top1: effect 0.49 (before +0.000) heads {'11': [0], '27': [3]}
+seed 12 wr_both_top2: effect 0.59 (before +0.001) heads {'11': [0, 2], '27': [3, 4]}
+seed 12 wr_both_top3: effect 0.64 (before +0.001) heads {'11': [0, 2, 6], '27': [3, 4, 6]}
+seed 12 wr_both_top4: effect 0.77 (before +0.001) heads {'11': [0, 1, 2, 6], '27': [3, 4, 6, 7]}
+seed 12 wr_both_top6: effect 0.80 (before +0.003) heads {'11': [0, 1, 2, 6, 7, 11], '27': [1, 3, 4, 5, 6, 7]}
+seed 12 group_L27_kv1: effect 0.50 (before -0.001) heads {'27': [4, 5, 6, 7]}
+seed 12 group_L27_kv0: effect 0.03 (before +0.003) heads {'27': [0, 1, 2, 3]}
+seed 12 group_L11_kv0: effect 0.40 (before -0.001) heads {'11': [0, 1, 2, 3]}
+seed 12 control_kv3_both: effect 0.00 (before -0.001) heads {'11': [12, 13, 14, 15], '27': [12, 13, 14, 15]}
+seed 13 wr_L27_top1: effect 0.18 (before +0.002) heads {'27': [3]}
+seed 13 wr_L27_top2: effect 0.26 (before +0.001) heads {'27': [3, 4]}
+seed 13 wr_L27_top3: effect 0.34 (before +0.002) heads {'27': [3, 4, 7]}
+seed 13 wr_L27_top4: effect 0.42 (before +0.002) heads {'27': [3, 4, 6, 7]}
+seed 13 wr_L27_top5: effect 0.51 (before +0.001) heads {'27': [3, 4, 5, 6, 7]}
+seed 13 wr_L27_top6: effect 0.50 (before +0.002) heads {'27': [1, 3, 4, 5, 6, 7]}
+seed 13 wr_L27_top8: effect 0.63 (before +0.002) heads {'27': [1, 3, 4, 5, 6, 7, 8, 10]}
+seed 13 wr_L27_top12: effect 0.65 (before +0.002) heads {'27': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]}
+seed 13 wr_L11_top1: effect 0.39 (before +0.001) heads {'11': [0]}
+seed 13 wr_L11_top2: effect 0.41 (before +0.002) heads {'11': [0, 2]}
+seed 13 wr_L11_top3: effect 0.48 (before +0.002) heads {'11': [0, 2, 6]}
+seed 13 wr_L11_top5: effect 0.47 (before +0.001) heads {'11': [0, 1, 2, 6, 11]}
+seed 13 wr_both_top1: effect 0.47 (before +0.000) heads {'11': [0], '27': [3]}
+seed 13 wr_both_top2: effect 0.64 (before +0.002) heads {'11': [0, 2], '27': [3, 4]}
+seed 13 wr_both_top3: effect 0.75 (before +0.003) heads {'11': [0, 2, 6], '27': [3, 4, 7]}
+seed 13 wr_both_top4: effect 0.79 (before +0.003) heads {'11': [0, 1, 2, 6], '27': [3, 4, 6, 7]}
+seed 13 wr_both_top6: effect 0.87 (before +0.002) heads {'11': [0, 1, 2, 6, 7, 11], '27': [1, 3, 4, 5, 6, 7]}
+seed 13 group_L27_kv1: effect 0.28 (before +0.003) heads {'27': [4, 5, 6, 7]}
+seed 13 group_L27_kv0: effect 0.21 (before +0.002) heads {'27': [0, 1, 2, 3]}
+seed 13 group_L11_kv0: effect 0.42 (before +0.002) heads {'11': [0, 1, 2, 3]}
+seed 13 control_kv3_both: effect 0.00 (before -0.000) heads {'11': [12, 13, 14, 15], '27': [12, 13, 14, 15]}
+exit=0

@@ -1,0 +1,11 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+seed 11: replacement forward vs stock, max |prob diff| = 0.00163
+  L11 top heads by write-from-word: h0 39% (mass 0.09, x1.7/tok), h2 23% (mass 0.05, x1.3/tok), h6 13% (mass 0.04, x0.8/tok), h1 10% (mass 0.03, x0.9/tok)
+  L27 top heads by write-from-word: h3 18% (mass 0.07, x1.3/tok), h4 16% (mass 0.08, x1.2/tok), h6 13% (mass 0.06, x1.0/tok), h7 13% (mass 0.06, x1.0/tok)
+seed 12: replacement forward vs stock, max |prob diff| = 0.00557
+  L11 top heads by write-from-word: h0 39% (mass 0.09, x1.7/tok), h2 23% (mass 0.04, x1.2/tok), h6 12% (mass 0.04, x0.7/tok), h1 10% (mass 0.03, x0.9/tok)
+  L27 top heads by write-from-word: h3 17% (mass 0.06, x1.1/tok), h4 16% (mass 0.07, x1.1/tok), h6 15% (mass 0.06, x1.0/tok), h7 13% (mass 0.06, x0.9/tok)
+seed 13: replacement forward vs stock, max |prob diff| = 0.00155
+  L11 top heads by write-from-word: h0 38% (mass 0.09, x1.7/tok), h2 24% (mass 0.05, x1.3/tok), h6 12% (mass 0.04, x0.8/tok), h1 10% (mass 0.03, x0.8/tok)
+  L27 top heads by write-from-word: h3 17% (mass 0.07, x1.4/tok), h4 16% (mass 0.07, x1.2/tok), h7 13% (mass 0.06, x1.0/tok), h6 13% (mass 0.06, x1.0/tok)
+exit=0

@@ -1,0 +1,27 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+  'Postgres sequel' seed 11: heard='' success=False
+  'Postgres sequel' seed 12: heard='pocoja sql' success=False
+  'Postgres sequel' seed 13: heard='pukda sql' success=False
+'Postgres sequel': 0/3 seeds sound right
+  'Postgres S Q L' seed 11: heard="poketstar's sql" success=False
+  'Postgres S Q L' seed 12: heard="polkata's sql" success=False
+  'Postgres S Q L' seed 13: heard='podcastsql' success=False
+'Postgres S Q L': 0/3 seeds sound right
+  'Postgre S Q L' seed 11: heard='poptuja sql' success=False
+  'Postgre S Q L' seed 12: heard='poptigior sql' success=False
+  'Postgre S Q L' seed 13: heard='poctezer sql' success=False
+'Postgre S Q L': 0/3 seeds sound right
+  'Post-gres sequel' seed 11: heard='postgresql' success=True
+  'Post-gres sequel' seed 12: heard='postgresql' success=True
+  'Post-gres sequel' seed 13: heard='postgresql' success=True
+'Post-gres sequel': 3/3 seeds sound right
+  'Poss-gres sequel' seed 11: heard='postgresql' success=True
+  'Poss-gres sequel' seed 12: heard='postgresql' success=True
+  'Poss-gres sequel' seed 13: heard='postgres sql' success=True
+'Poss-gres sequel': 3/3 seeds sound right
+  'Postgres SQL database' seed 11: heard='pocchas sql database' success=False
+  'Postgres SQL database' seed 12: heard='podcast sql database' success=False
+  'Postgres SQL database' seed 13: heard='poptus sql database' success=False
+'Postgres SQL database': 0/3 seeds sound right
+Pick the candidate with the most consistent success across seeds for `vectors --respell`.
+exit=0

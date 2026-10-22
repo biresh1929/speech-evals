@@ -1,0 +1,10 @@
+# study 1 (Hindi WER) and study 4 (latency): standard library + numpy
+numpy
+# study 2 (TTS benchmark) and study 3 (interpretability): models are downloaded on first run; a CUDA GPU is advised
+soundfile
+faster-whisper
+torch
+transformers==5.2.0      # the version Rumik-OSS-1's code was read and run against
+piper-tts
+chatterbox-tts
+pocket-tts

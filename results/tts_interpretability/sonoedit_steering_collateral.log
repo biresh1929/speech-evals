@@ -1,0 +1,13 @@
+Rumik mode 'codec_cpu' needs ~6.40GB but only 4.95GB is free. Attempting anyway: the driver will spill ~1.45GB into shared system memory, and generation will be far slower than realtime (measured ~25x on a 6GB card).
+[off] seed 11 wer=0.0 | The weather today is sunny with a light ... -> The weather today is sunny with a light breeze from the west.
+[on] seed 11 wer=0.0 | The weather today is sunny with a light ... -> The weather today is sunny with a light breeze from the west.
+[off] seed 11 wer=0.0 | She finished her coffee and walked out i... -> She finished her coffee and walked out into the busy morning street.
+[on] seed 11 wer=0.0 | She finished her coffee and walked out i... -> she finished her coffee and walked out into the busy morning street.
+[off] seed 11 wer=0.0 | Our quarterly meeting has been moved to ... -> Our quarterly meeting has been moved to Thursday afternoon.
+[on] seed 11 wer=0.0 | Our quarterly meeting has been moved to ... -> Our quarterly meeting has been moved to Thursday afternoon.
+[off] seed 11 wer=0.077 | The recipe calls for two cups of flour a... -> The recipe calls for 2 cups of flour and a pinch of salt.
+[on] seed 11 wer=0.077 | The recipe calls for two cups of flour a... -> The recipe calls for 2 cups of flour and a pinch of salt.
+[off] seed 11 wer=0.25 | He practiced the guitar every evening af... -> He'd practice the guitar every evening after dinner.
+[on] seed 11 wer=0.0 | He practiced the guitar every evening af... -> he practiced the guitar every evening after dinner.
+mean WER off=0.065  on=0.015
+exit=0

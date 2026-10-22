@@ -1,0 +1,72 @@
+[
+ {
+  "text": "The weather today is sunny with a light breeze from the west.",
+  "seed": 11,
+  "steering": "off",
+  "wer": 0.0,
+  "asr_text": "The weather today is sunny with a light breeze from the west."
+ },
+ {
+  "text": "The weather today is sunny with a light breeze from the west.",
+  "seed": 11,
+  "steering": "on",
+  "wer": 0.0,
+  "asr_text": "The weather today is sunny with a light breeze from the west."
+ },
+ {
+  "text": "She finished her coffee and walked out into the busy morning street.",
+  "seed": 11,
+  "steering": "off",
+  "wer": 0.0,
+  "asr_text": "She finished her coffee and walked out into the busy morning street."
+ },
+ {
+  "text": "She finished her coffee and walked out into the busy morning street.",
+  "seed": 11,
+  "steering": "on",
+  "wer": 0.0,
+  "asr_text": "she finished her coffee and walked out into the busy morning street."
+ },
+ {
+  "text": "Our quarterly meeting has been moved to Thursday afternoon.",
+  "seed": 11,
+  "steering": "off",
+  "wer": 0.0,
+  "asr_text": "Our quarterly meeting has been moved to Thursday afternoon."
+ },
+ {
+  "text": "Our quarterly meeting has been moved to Thursday afternoon.",
+  "seed": 11,
+  "steering": "on",
+  "wer": 0.0,
+  "asr_text": "Our quarterly meeting has been moved to Thursday afternoon."
+ },
+ {
+  "text": "The recipe calls for two cups of flour and a pinch of salt.",
+  "seed": 11,
+  "steering": "off",
+  "wer": 0.077,
+  "asr_text": "The recipe calls for 2 cups of flour and a pinch of salt."
+ },
+ {
+  "text": "The recipe calls for two cups of flour and a pinch of salt.",
+  "seed": 11,
+  "steering": "on",
+  "wer": 0.077,
+  "asr_text": "The recipe calls for 2 cups of flour and a pinch of salt."
+ },
+ {
+  "text": "He practiced the guitar every evening after dinner.",
+  "seed": 11,
+  "steering": "off",
+  "wer": 0.25,
+  "asr_text": "He'd practice the guitar every evening after dinner."
+ },
+ {
+  "text": "He practiced the guitar every evening after dinner.",
+  "seed": 11,
+  "steering": "on",
+  "wer": 0.0,
+  "asr_text": "he practiced the guitar every evening after dinner."
+ }
+]

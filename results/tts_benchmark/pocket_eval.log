@@ -1,0 +1,6 @@
+loaded in 47.92s, sr=24000
+builtin_alba_1: 4.64s, first chunk 0.134s, total 1.48s (RTF 0.319)
+builtin_alba_2: 3.76s, first chunk 0.118s, total 1.21s (RTF 0.322)
+builtin_alba_3: 4.4s, first chunk 0.13s, total 1.41s (RTF 0.321)
+clone_author: We could not download the weights for the model with voice cloning, but you're trying to use voice cloning. Without voice cloning, you can use our catalog of voices ['cosette', 'marius', 'javert', 'alba', 'jean', 'anna', 'vera', 'fantine', 'charles', 'paul', 'eponine', 'azelma', 'george', 'mary', 'jane', 'michael', 'eve', 'bill_boerst', 'peter_yearsley', 'stuart_bell', 'caro_davy', 'giovanni', 'lola', 'juergen', 'rafael', 'estelle']. If you want access to the model with voice cloning, go to https://huggingface.co/kyutai/pocket-tts and accept the terms, then make sure you're logged in locally with `uvx hf auth login`.
+exit=0

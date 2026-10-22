@@ -1,0 +1,87 @@
+{
+  "english_en": {
+    "reference": {
+      "source": "2026-09-02 14-06-47.mp4",
+      "start": 1784.77,
+      "seconds": 11.03,
+      "text": "And then it sends the free text body to Gemini and Gemini then pulls out the structured fields like name phone Emirates ID which were missing and are provided by the employee now."
+    },
+    "utterances": [
+      {
+        "file": "english_en_1.wav",
+        "text": "You refactored the payment service and moved the retry logic into its own module.",
+        "audio_seconds": 4.4,
+        "generate_seconds": 5.07,
+        "realtime_factor": 1.152,
+        "spk_sim_to_reference": 0.9228,
+        "watermark_score": 1.0,
+        "asr_text": "U refactored the payment service and moved the retry logic into its own module.",
+        "wer": 0.071
+      },
+      {
+        "file": "english_en_2.wav",
+        "text": "Three tests were added for the rate limiter, and one of them is currently failing.",
+        "audio_seconds": 4.04,
+        "generate_seconds": 4.14,
+        "realtime_factor": 1.024,
+        "spk_sim_to_reference": 0.9364,
+        "watermark_score": 1.0,
+        "asr_text": "3 tests were added for the rate limiter and one of them is currently failing.",
+        "wer": 0.067
+      },
+      {
+        "file": "english_en_3.wav",
+        "text": "The authentication middleware now checks the token expiry before touching the database.",
+        "audio_seconds": 4.12,
+        "generate_seconds": 4.25,
+        "realtime_factor": 1.031,
+        "spk_sim_to_reference": 0.9312,
+        "watermark_score": 1.0,
+        "asr_text": "The authentication middleware now checks the token expiry before touching the database.",
+        "wer": 0.0
+      }
+    ],
+    "load_seconds": 10.7,
+    "voice_prepare_seconds": 1.56,
+    "peak_vram_gb": 3.68,
+    "watermark_score_on_untouched_reference": 0.0,
+    "contrast_sim_reference_vs_rumik_ira": 0.6641
+  },
+  "multilingual_hi": {
+    "reference": {
+      "source": "new-hindi-recording.mp4",
+      "start": 260.03,
+      "seconds": 8.36,
+      "text": "कोड रिव्यू में सीनिया डब्लपर ने कहा कि नेमिंग कणवेनशन फालो करो प्रोपरली"
+    },
+    "utterances": [
+      {
+        "file": "multilingual_hi_1.wav",
+        "text": "आपने पेमेंट सर्विस में बदलाव किया है और रीट्राई लॉजिक को अलग मॉड्यूल में डाल दिया है।",
+        "audio_seconds": 6.52,
+        "generate_seconds": 7.15,
+        "realtime_factor": 1.097,
+        "spk_sim_to_reference": 0.8543,
+        "watermark_score": 1.0,
+        "asr_text": "आपने पेमेंट सर्वीस में बबलाव किया है और रीटराइ लोजिक को अलग मोडुल में डाल दिया हैं",
+        "wer": 0.353
+      },
+      {
+        "file": "multilingual_hi_2.wav",
+        "text": "रेट लिमिटर के लिए तीन नए टेस्ट जोड़े गए हैं, और उनमें से एक अभी फेल हो रहा है।",
+        "audio_seconds": 4.84,
+        "generate_seconds": 5.36,
+        "realtime_factor": 1.108,
+        "spk_sim_to_reference": 0.8699,
+        "watermark_score": 1.0,
+        "asr_text": "तदेट लिमेटर के लिए तीन नहीं टेस्ट जोड़े गए हैं और उनमेसे ये कभी फेल हो रहा हैं.",
+        "wer": 0.421
+      }
+    ],
+    "load_seconds": 26.9,
+    "voice_prepare_seconds": 0.27,
+    "peak_vram_gb": 3.67,
+    "watermark_score_on_untouched_reference": 0.0,
+    "contrast_sim_reference_vs_rumik_ira": 0.7004
+  }
+}
